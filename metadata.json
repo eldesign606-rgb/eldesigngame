@@ -1,0 +1,6 @@
+{
+  "name": "BrainQuest 3D",
+  "description": "Game 3D asah otak modern, interaktif, edukatif, dan menantang dengan 30 level puzzle logika, spasial, dan memori.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
